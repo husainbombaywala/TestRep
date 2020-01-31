@@ -23,4 +23,8 @@ Ram updated from local with help of prasad
 Ram updated with help of prasad second time remote
 
 Ram updated from Atom UI
+<<<<<<< HEAD
 Ram again updated from Atom UI
+=======
+Ram updated from server remote at home
+>>>>>>> 0f075962540ae07671a0d67d38016e05bae9dd7f
