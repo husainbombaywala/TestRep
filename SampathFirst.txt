@@ -3,5 +3,7 @@ This is sampaths file updated just now
 Ram updated sampath file
 <<<<<<< HEAD
 
+This second update from Sampath
 =======
+sindhu updated sampath file
 >>>>>>> d4eb7e201a52a7bf3f9899f4e1b13930be1ca29a
