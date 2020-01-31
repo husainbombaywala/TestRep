@@ -2,8 +2,21 @@ This is sampaths file updated just now
 
 Ram updated sampath file
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 This second update from Sampath
 =======
 sindhu updated sampath file
 >>>>>>> d4eb7e201a52a7bf3f9899f4e1b13930be1ca29a
+=======
+<<<<<<< HEAD
+
+
+=======
+>>>>>>> d4eb7e201a52a7bf3f9899f4e1b13930be1ca29a
+=======
+
+
+
+>>>>>>> f29a73c464ba35aa510f656e1b68a6cc64526c81
+>>>>>>> aa6f8285e3046b115a00159d09198bcb0796ece4
