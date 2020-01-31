@@ -19,6 +19,9 @@ Thirupathi updated sampath file
 
 
 Ram updated with help of prasad
+<<<<<<< HEAD
 
 Ram updated from local with help of prasad
+=======
 Ram updated with help of prasad second time remote
+>>>>>>> d47ea4265a4ddecd97eececd712df18a3d57a83c
